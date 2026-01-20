@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Allow: /img/
+
+Sitemap: https://1xbet.market/sitemap.xml
